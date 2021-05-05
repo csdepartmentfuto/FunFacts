@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Fun Facts</string>
+    <string name="prompt">Login Here</string>
+    <string name="email_icon_content_description">email</string>
+    <string name="email_hint">Email</string>
+    <string name="password_icon_content_description">password</string>
+    <string name="password_hint">Password</string>
+    <string name="login_buttonText">login</string>
+</resources>
